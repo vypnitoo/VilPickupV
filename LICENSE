@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2025 vypnito
+Copyright (c) 2024 vypnito
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,27 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+ADDITIONAL TERMS:
+
+1. DISTRIBUTION RESTRICTIONS:
+   - You may NOT resell this software or any modified versions
+   - You may NOT redistribute this software on other platforms without explicit permission
+   - You may NOT claim this software as your own work
+   - All distributions must include this license file and maintain attribution
+
+2. OFFICIAL DISTRIBUTION:
+   - The only authorized distribution channel is the official SpigotMC resource page:
+     https://www.spigotmc.org/resources/vilpickupv.127782/
+   - Users should download from the official source to ensure authenticity and support
+
+3. MODIFICATION:
+   - Personal modifications for private use are permitted
+   - Public distribution of modified versions is prohibited without permission
+   - Modified versions must not be distributed as the original software
+
+4. SUPPORT:
+   - Support is only provided for official versions downloaded from SpigotMC
+   - Modified versions are not eligible for official support
+
+By using this software, you agree to these terms and conditions.
