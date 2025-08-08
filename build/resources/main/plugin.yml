@@ -1,0 +1,21 @@
+name: VilPickupV
+version: '1.8'
+main: com.vypnito.vilPickupV.VilPickupV
+api-version: '1.19'
+authors: [ vypnito ]
+description: 'Villager Pickup Plugin :)'
+website: 'https://github.com/vypnitoo'
+prefix: '[Vypnito] VilPickup'
+
+commands:
+  vilpickup:
+    description: 'VilPickupV main command'
+    usage: '/vilpickup reload'
+    
+permissions:
+  vilpickup.use:
+    description: 'Allows picking up villagers'
+    default: true
+  vilpickup.admin:
+    description: 'Allows using admin commands'
+    default: op
